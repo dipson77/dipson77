@@ -39,7 +39,7 @@ I’m especially interested in combining machine learning, automation, and moder
 
 ## 📫 Contact Me
 - Email: dipsonbhujel08@gmail.com
-- LinkedIn: [Dipson Bhujel](https://www.linkedin.com/in/dipson-bhujel/)
+- LinkedIn: [Dipson Bhujel](https://www.linkedin.com/in/dipson--bhujel/)
 - GitHub: [dipson77](https://github.com/dipson77)
 - Portfolio: [dipsonbhujel.com.np](https://dipsonbhujel.com.np/)
 - Location: Nepal
