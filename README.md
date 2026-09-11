@@ -2,35 +2,6 @@
 
 Welcome to my GitHub! I’m Dipson Bhujel, an AI/ML Automation Engineer with hands-on experience building AI applications, machine learning solutions, and automation workflows. I enjoy creating end-to-end systems using Python, FastAPI, modern LLM frameworks, and workflow automation tools to solve real-world problems.
 
----
-
-<table border="0" cellpadding="0" cellspacing="5" width="100%">
-  <tr>
-    <td colspan="2" align="center"><h2>Personal: dipson77</h2></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dipson77&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=dipson77&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><h2>Work: dipson-rumsan</h2></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dipson-rumsan&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats (Office)" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=dipson-rumsan&theme=dark&hide_border=true" alt="GitHub Streak Stats (Office)" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 👨‍💻 About Me
 I’m currently working as an AI/ML Automation Engineer at Rumsan Associates, where I build and deploy AI-powered applications, RAG systems, workflow automations, and document-processing solutions. My work spans machine learning pipelines, LLM integrations, web scraping, data extraction, and end-to-end application development.
 
